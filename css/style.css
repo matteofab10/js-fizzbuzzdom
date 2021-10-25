@@ -1,23 +1,23 @@
 body {
-   background-color: cadetblue;
+   background-color: #083b4c;
    color: #fff;
 }
 .box {
-   height: 80px;
-   width: 80px;
+   height: 100px;
+   width: 100px;
    margin: 10px;
-   background-color: rgb(33, 63, 65);
+   background-color: #1389b2;
    border: 1px solid black;
    display: flex;
    justify-content: center;
    align-items: center;
 }
 .box.odd3 {
-   background-color: green;
+   background-color: #0bd6a1;
 }
 .box.odd5 {
-   background-color: yellow;
+   background-color: #ffd166;
 }
 .box.odd15 {
-   background-color: red;
+   background-color: #f0466f;
 }
